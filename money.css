@@ -3,10 +3,12 @@ p{
 	color:white;
 	font-family: 'Rock Salt', cursive;
 	margin:auto;
+	cursor:pointer;
 }
 h1{
 	color:white;
 	margin:auto;
+	cursor:pointer;
 }
 .c1{
 	background-color:none;
@@ -53,6 +55,7 @@ h1{
 	background-color:red;
 	flex-wrap:wrap;
 	display:flex;
+	cursor:pointer;
 	
 } 
 .leftb{
